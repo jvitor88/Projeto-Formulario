@@ -1,0 +1,87 @@
+@media(max-width: 1400px){
+    body{
+        flex-direction: column;  
+        margin: 30px; 
+        gap: 15px;    
+    }
+
+    .title, .text{
+        text-align: center;
+    }
+
+    .form{
+        padding: 10px;
+
+    }
+
+    .button{
+        cursor: pointer;
+        width: 596px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    .warning{
+        font-size: 14px;
+        margin: 10px;
+        padding-left: 20px;
+    }
+
+    .mandatory{
+        font-size: 20px;
+        padding-left: 20px;
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width: 700px){
+    body{
+        margin: 0px;
+        gap: 10px;
+    }
+
+    .label{
+        width: 340px;
+        height: 200px;
+    }
+
+    .title, .text{
+        font-size: 22px;
+    }    
+    
+    .form{
+        width: 340px;
+        height: 500px;
+
+    }
+
+    .input{
+        width: 320px;
+        height: 55px;
+        font-size: 15px; 
+    }
+
+    .area{
+        height: 100px;
+    }
+
+    .button{
+        cursor: pointer;
+        width: 298px;
+        height: 41px;
+        font-size: 20px;
+    }
+    
+    .warning{
+        font-size: 14px;
+        margin: 2px;
+        padding-left: 0px;
+    }
+
+    .mandatory{
+        font-size: 15px;
+        padding-left: 20px;
+    }
+
+
+}
