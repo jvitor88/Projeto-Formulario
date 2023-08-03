@@ -6,7 +6,8 @@
 
 Desafio do curso DevQuest, onde foi solicitado a criação de um formulário baseado em um Figma. 
 
-Acesse pelo link do GitPages: <a href="https://jvitor88.github.io/Projeto-Formulario" target="_blank">jvitor88.github.io/Projeto-Formulario/</a> 
+Acesse pelo link do GitPages ➡️ <a href="https://jvitor88.github.io/Projeto-Formulario" target="_blank">Projeto-Formulario</a> 
+
 
  ### Minhas redes: 
 
