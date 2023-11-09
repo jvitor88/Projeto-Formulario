@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Roboto:wght@400;700;900&display=swap');
 
 :root {
-    --primary: #D9669D;
-    --secondary: #6581E5;
-    --tertiary: #3CCC87;
+    --primary: #db5c01;
+    --secondary: #683a19;
+    --tertiary: #008e49;
     --quaternary: #F52E2E;
   }
 
@@ -14,7 +14,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 100px;
+    gap: 20px;
     font-family: 'Roboto', sans-serif;;
 }
 
@@ -22,6 +22,7 @@ body{
     width: 600px;
     height: 222px;
     color: #ffffff;
+    margin-top: 30px;
 }
 
 .title{
@@ -42,6 +43,8 @@ body{
     justify-content: space-evenly;
     width: 680px;
     height: 756px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px #000000a6;
     background-color: #ffffff;
 }
 
@@ -51,6 +54,7 @@ body{
     padding: 10px;
     font-size: 30px;
     font-weight: 700;
+    border: 1px solid #00000088;
     border-radius: 10px;  
 }
 
@@ -78,6 +82,9 @@ body{
 }
 
 .button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     cursor: pointer;
     width: 596px;
     height: 82px;
@@ -87,6 +94,19 @@ body{
     border: none;
     background-color: var(--tertiary);
     color: #ffffff;
+}
+
+.loading{
+    display: none;
+    width: 70px;
+}
+
+.waiting{
+    display: block
+}
+
+.sended{
+    display: none;
 }
 
 .button:hover{

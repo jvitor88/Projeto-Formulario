@@ -1,13 +1,22 @@
-<h1>Projeto Formulario com Validação</h1>
+<h1>Projeto Formulário com Validação</h1>
 
 <p float="left">
 
- <img src="https://media.licdn.com/dms/image/C4D0BAQG9RVtXwXXxfQ/company-logo_200_200/0/1663864652170?e=1698883200&v=beta&t=hLoRo_er494W3gUxcapb9eR97zHD-xp2zobEl7fClUA" width="200" />
+ <img src="https://uploaddeimagens.com.br/images/004/660/885/original/fomulario.PNG?1699570968" width="400" />
 
-Desafio do curso DevQuest, onde foi solicitado a criação de um formulário baseado em um Figma. 
+## Objetivo:
 
-Acesse pelo link do GitPages ➡️ <a href="https://jvitor88.github.io/Projeto-Formulario" target="_blank">Projeto-Formulario</a> 
+Formulário com validação realizado baseado em um Figma.
 
+## Foi utilizado:
+
+- HTML5
+- CSS3
+- Javascript;
+
+## Link do Projeto:
+
+👉 <a href="https://jvitor88.github.io/Projeto-Formulario" target="_blank">Clique Aqui</a>
 
  ### Minhas redes: 
 
